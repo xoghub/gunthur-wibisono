@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gunthur-wibisono.github.io/sitemap.xml
+Sitemap: https://xoghub.github.io/sitemap.xml
